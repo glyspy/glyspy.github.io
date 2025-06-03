@@ -1,7 +1,7 @@
 ## About
 <div align="justify">
 <p>Hi! I'm Glykeria, a biotechnologist currently doing my Master’s in  
-Data Science & Information Technologies, with a focus on Bioinformatics and Biomedical Data Science at the National & Kapodistrian University of Athens.</p>
+Data Science & Information Technologies, with a focus on Bioinformatics and Biomedical Data Science at the National & Kapodistrian University of Athens and <a href="https://archimedesai.gr/en/" target="_blank" rel="noopener noreferrer">Archimedes, Athena RC.</a></p>
 
 <p>I’ve always been fascinated by the complexity of nature. Bioinformatics felt like the perfect space  where computational logic meets biology to help us understand how living systems work.</p>
 
