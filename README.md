@@ -1,15 +1,15 @@
 ## About
 <div align="justify">
-Hi! I'm Glykeria Spyrou, a biotechnologist currently doing my Master’s in  
-Data Science & Information Technologies, with a focus on Bioinformatics and Biomedical Data Science at the National & Kapodistrian University of Athens.
+<p>Hi! I'm Glykeria, a biotechnologist currently doing my Master’s in  
+Data Science & Information Technologies, with a focus on Bioinformatics and Biomedical Data Science at the National & Kapodistrian University of Athens.</p>
 
-I’ve always been fascinated by the complexity of nature. Bioinformatics felt like the perfect space  where computational logic meets biology to help us understand how living systems work.
+<p>I’ve always been fascinated by the complexity of nature. Bioinformatics felt like the perfect space  where computational logic meets biology to help us understand how living systems work.</p>
 
-Currently, I’m working on my thesis under the supervision of [Prof. Elias Manolakos](https://www.linkedin.com/in/eliasmanolakos/), where I’m using causal inference methods to explore how biological biomarkers might act as mediators between circadian rhythm disruption and mild cognitive impairment (MCI).
+<p>Currently, I’m working on my thesis under the supervision of <a href="https://www.linkedin.com/in/eliasmanolakos/" target="_blank" rel="noopener noreferrer">Prof. Elias Manolakos</a>, where I’m using causal inference methods to explore how biological biomarkers might act as mediators between circadian rhythm disruption and mild cognitive impairment (MCI).</p>
 
-Outside of research, I enjoy nature, reading books, knitting and cooking.
-
+<p>Outside of research, I enjoy nature, reading books, knitting and cooking.</p>
 </div>
+
 ---
 <p align="center">
   <a href="https://github.com/glyspy" target="_blank">
