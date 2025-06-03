@@ -1,5 +1,5 @@
 title: Glykeria Spyrou Profile
-logo: /assets/img/image.jpg
+logo: /assets/img/circle_image.png
 # description: text below image
 # show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
@@ -18,5 +18,5 @@ plugins:
 #       layout: default
 
 # Add this to use your CSS
-include:
-  - assets/css/style.css
+# include:
+#   - assets/css/style.css
