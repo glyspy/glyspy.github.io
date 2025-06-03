@@ -1,11 +1,3 @@
----
-title: Glykeria Spyrou
-description: MSc Student in Bioinformatics - Biomedical Data Science at NKUA | Biotechnologist
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
----
-
 <div align="justify">
 <p>Hi! I'm Glykeria, a biotechnologist currently doing my Master’s in  
 Data Science & Information Technologies, with a focus on Bioinformatics and Biomedical Data Science at the National & Kapodistrian University of Athens.</p>
