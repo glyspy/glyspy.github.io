@@ -7,7 +7,7 @@ Data Science & Information Technologies, with a focus on Bioinformatics and Biom
 
 <p>Currently, I’m working on my thesis under the supervision of <a href="https://www.linkedin.com/in/eliasmanolakos/" target="_blank" rel="noopener noreferrer">Prof. Elias Manolakos</a>, where I’m using causal inference methods to explore how biological biomarkers might act as mediators between circadian rhythm disruption and mild cognitive impairment (MCI).</p>
 
-<p>Outside of research, I enjoy nature, reading books, knitting and cooking.</p>
+<p>Outside of research, I enjoy spending time in nature, reading books, knitting and cooking.</p>
 </div>
 
 ---
