@@ -1,4 +1,4 @@
-title: Glykeria Spyrou
+title: Glykeria Spyrou Profile
 logo: /assets/img/image.jpg
 # description: text below image
 # show_downloads: false
@@ -7,15 +7,15 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Custom CSS
-sass:
-  style: compressed
+# sass:
+#   style: compressed
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: default
+# defaults:
+#   -
+#     scope:
+#       path: ""
+#     values:
+#       layout: default
 
 # Add this to use your CSS
 include:
