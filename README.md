@@ -20,6 +20,6 @@ Data Science & Information Technologies, with a focus on Bioinformatics and Biom
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
   </a>
   <a href="mailto:&#115;&#112;&#121;&#114;&#111;&#117;&#103;&#108;&#121;&#107;&#101;&#114;&#105;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mail/mail.svg" alt="Email" width="30"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" alt="Email" width="30"/>
   </a>
 </p>
