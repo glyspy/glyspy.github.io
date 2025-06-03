@@ -1,4 +1,11 @@
-## About
+---
+title: Glykeria Spyrou
+description: MSc Student in Bioinformatics - Biomedical Data Science at NKUA | Biotechnologist
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+---
+
 <div align="justify">
 <p>Hi! I'm Glykeria, a biotechnologist currently doing my Master’s in  
 Data Science & Information Technologies, with a focus on Bioinformatics and Biomedical Data Science at the National & Kapodistrian University of Athens.</p>
@@ -12,15 +19,16 @@ Data Science & Information Technologies, with a focus on Bioinformatics and Biom
 
 ---
 <p align="center">
-  <a href="https://github.com/glyspy" target="_blank">
+  <a href="https://github.com/glyspy" target="_blank" aria-label="GitHub">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/glyspy/" target="_blank">
+  <a href="https://www.linkedin.com/in/glyspy/" target="_blank" aria-label="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:&#115;&#112;&#121;&#114;&#111;&#117;&#103;&#108;&#121;&#107;&#101;&#114;&#105;&#97;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
+  <a href="mailto:spyrouglykeria@gmail.com" aria-label="Email" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/maildotru.svg" alt="Email" width="30"/>
   </a>
 </p>
+
